@@ -1,7 +1,10 @@
 # CV - public
 
-👉 [Short CV here](https://github.com/jkjoergensen/cv-public/blob/main/CV_English_Short.md)
-👉 [Full CV here](https://github.com/jkjoergensen/cv-public/blob/main/CV_English_Full.md)
+Links to CV in english:
+- 👉 [Short CV here](https://github.com/jkjoergensen/cv-public/blob/main/CV_English_Short.md)
+- 👉 [Full CV here](https://github.com/jkjoergensen/cv-public/blob/main/CV_English_Full.md)
+
+---
 
 ## 🧾 **Professional Profile Summary**
 
