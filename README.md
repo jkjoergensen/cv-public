@@ -13,3 +13,7 @@ Jesper K. Jørgensen is a seasoned data and IT professional with extensive exper
 He has held key roles in both public and private sectors, including BI Developer at Movia and IT Security Manager at the City of Copenhagen. His expertise spans SQL Server, Power BI, Azure Data Factory, SSIS/SSAS/SSRS, and ISO/IEC 27000-series standards. Jesper is known for his analytical mindset, structured approach, and ability to standardize and optimize data processes.
 
 He thrives in collaborative, project-based environments and is passionate about knowledge sharing, data automation process improvement, and data quality. His work is characterized by a balance of technical proficiency, strategic thinking, and a deep commitment to service and security.
+
+| **_LinkedIn_** | **_CV_** |
+|:---:|:---:|
+| ![LinkedIn-QR](img/JKJ-QR-LinkedIn_20260529_003514.jpg) | ![CV-QR](img/JKJ-QR-CV_20260529_004418.jpg) |
