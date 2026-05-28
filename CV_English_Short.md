@@ -31,4 +31,4 @@ Experienced Data Engineer and BI Specialist with strong skills in data warehousi
 
 ---
 
-👉 [Full CV here](https://github.com/jkjoergensen/cv/blob/main/CV_English_Full.md)
+👉 [Full CV here](https://github.com/jkjoergensen/cv-public/blob/main/CV_English_Full.md)
