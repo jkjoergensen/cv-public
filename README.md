@@ -14,6 +14,12 @@ He has held key roles in both public and private sectors, including BI Developer
 
 He thrives in collaborative, project-based environments and is passionate about knowledge sharing, data automation process improvement, and data quality. His work is characterized by a balance of technical proficiency, strategic thinking, and a deep commitment to service and security.
 
-| **_LinkedIn_** | **_CV_** |
-|:---:|:---:|
-| ![LinkedIn-QR](img/JKJ-QR-LinkedIn_20260529_003514.jpg) | ![CV-QR](img/JKJ-QR-CV_20260529_004418.jpg) |
+---
+
+## Digital visit card - QR codes
+
+| **_LinkedIn_** | | **_CV_** |
+|:---:|:---:|:---:|
+| <img src="img/JKJ-QR-LinkedIn_20260529_003514.jpg" alt="LinkedIn-QR" style="width:350px"> | |<img src="img/JKJ-QR-CV_20260529_004418.jpg" alt="CV-QR" style="width:350px"> |
+
+---
